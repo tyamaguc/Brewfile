@@ -5,11 +5,9 @@ tap homebrew/versions
 tap rcmdnk/file
 tap sanemat/font
 
-cask adobe-reader
+cask adobe-reader-ja
 cask alfred
 cask atom
-cask autoconf
-cask automake
 cask cheatsheet
 cask dash2
 cask dockertoolbox
@@ -19,13 +17,11 @@ cask google-chrome
 cask google-japanese-ime
 cask google-web-designer
 cask iterm2
-cask java
 cask karabiner
 cask kindle
 cask macdown
 cask magican
 cask mysqlworkbench
-cask pkg-config
 cask rubymine
 cask seil
 cask sketch-toolbox
