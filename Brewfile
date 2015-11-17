@@ -59,8 +59,10 @@ brew protobuf
 brew python
 brew q
 brew readline
+brew rbenv
 brew ricty
 brew ruby
+brew ruby-build
 brew sqlite
 brew the_silver_searcher
 brew tmux
