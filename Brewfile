@@ -1,6 +1,7 @@
 tap caskroom/cask
 tap caskroom/versions
 tap homebrew/binary
+tap homebrew/dupes
 tap homebrew/versions
 tap rcmdnk/file
 tap sanemat/font
@@ -51,7 +52,11 @@ brew graphviz
 brew hub
 brew jq
 brew keychain
+brew libiconv
+brew libxml2
+brew libxslt
 brew mobile-shell
+brew mysql
 brew nkf
 brew openssl
 brew pkg-config
